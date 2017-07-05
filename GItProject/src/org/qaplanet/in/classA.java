@@ -14,4 +14,10 @@ public class classA
 	{
 		System.out.println("Method3");
 	}
+	
+	public void method4()
+	{
+		System.out.println("Method4");
+	}
+	
 }
